@@ -1,0 +1,26 @@
+{
+  "errors": [],
+  "images": [
+    {
+      "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/journey-hero-v1.BVbo8Ndx_Z8h4oO.webp",
+      "loaded": true
+    },
+    {
+      "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.DnPVLFGq_14zSca.webp",
+      "loaded": true
+    },
+    {
+      "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/system-architecture-v1.DwiBa64a_dGK1h.webp",
+      "loaded": true
+    },
+    {
+      "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.DnPVLFGq_1ijcS8.webp",
+      "loaded": true
+    },
+    {
+      "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-standing-v1.CqGB5iF1_Z2wYjAx.webp",
+      "loaded": true
+    }
+  ],
+  "overflow": false
+}

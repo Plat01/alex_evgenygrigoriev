@@ -1,0 +1,186 @@
+{
+  "schemaVersion": 2,
+  "generatedAt": "2026-10-27T23:00:39.206011+00:00",
+  "title": "Design System: Евгений Григорьев",
+  "extensions": {
+    "colorMeta": {
+      "accent": {
+        "role": "primary",
+        "displayName": "Терракота"
+      },
+      "paper": {
+        "role": "neutral",
+        "displayName": "Слоновая кость"
+      },
+      "ink": {
+        "role": "neutral",
+        "displayName": "Угольный сланец"
+      },
+      "dark": {
+        "role": "neutral",
+        "displayName": "Глубокий сланец"
+      },
+      "pale": {
+        "role": "neutral",
+        "displayName": "Гипс"
+      }
+    },
+    "typographyMeta": {
+      "display": {
+        "displayName": "Имя",
+        "purpose": "Крупное имя первого экрана; 102px — фактический верхний предел по брифу."
+      },
+      "evidence": {
+        "displayName": "Масштаб",
+        "purpose": "Цифры опыта с tabular-nums."
+      }
+    },
+    "shadows": [
+      {
+        "name": "mobile-menu",
+        "value": "0 18px 30px #252c2c1a",
+        "purpose": "Единственная интерфейсная тень под мобильной панелью."
+      }
+    ],
+    "motion": [
+      {
+        "name": "link-transition",
+        "value": "color .2s, background-color .2s",
+        "purpose": "Цветовые состояния ссылок и CTA; отключены при reduced motion."
+      },
+      {
+        "name": "hero-entry",
+        "value": "duration 1.2; ease expo.out; y 26 / 18; stagger .09; artwork scale 1.035, duration 1.8",
+        "purpose": "Вступление без opacity-скрытия текста."
+      },
+      {
+        "name": "hero-parallax",
+        "value": "scrub .6; artwork y 85/30, scale 1.05/1.015; copy y -55/-12 (desktop/mobile)",
+        "purpose": "Разные амплитуды первого экрана."
+      },
+      {
+        "name": "direction-orbit",
+        "value": "rotation -12; scrub .7",
+        "purpose": "Поворот орбиты между top bottom и bottom top."
+      },
+      {
+        "name": "approach-layers",
+        "value": "scrub .7; desktop pin .approach-stage; end +=45%; mobile no pin",
+        "purpose": "Единственный desktop pin, 45vh дополнительной прокрутки."
+      },
+      {
+        "name": "approach-displacement",
+        "value": "system y 45→-35 / 12→-12; thinker x 28→-22 / 8→-6, y 15→-8; foreground y 50→-50",
+        "purpose": "Разделение глубины; пары desktop/mobile."
+      },
+      {
+        "name": "meeting-portal",
+        "value": "from y 65, rotation 9; scrub .8",
+        "purpose": "Декоративный сдвиг портала."
+      }
+    ],
+    "breakpoints": [
+      {
+        "name": "small-phone",
+        "value": "max-width: 360px"
+      },
+      {
+        "name": "mobile",
+        "value": "max-width: 760px"
+      },
+      {
+        "name": "desktop-motion",
+        "value": "min-width: 761px"
+      },
+      {
+        "name": "tablet",
+        "value": "min-width: 761px and max-width: 1100px"
+      },
+      {
+        "name": "wide",
+        "value": "min-width: 1900px"
+      }
+    ]
+  },
+  "components": [
+    {
+      "name": "Основная ссылка CTA",
+      "kind": "button",
+      "refersTo": "button-primary",
+      "description": "Прямоугольная ссылка на встречу-знакомство.",
+      "html": "<a class=\"ds-button\" href=\"https://t.me/GrigorievEvgene\">Записаться на встречу-знакомство <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;justify-content:space-between;align-items:center;gap:32px;max-width:100%;background:var(--accent,#a4432b);color:var(--white,#fff);padding:21px 25px;font:650 14px/1.5 \"Manrope Variable\",sans-serif;text-decoration:none;min-height:64px;transition:background-color .2s,color .2s}.ds-button svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.5}.ds-button:hover{background:var(--ink,#252c2c);color:var(--white,#fff)}.ds-button:focus-visible{outline:3px solid currentColor;outline-offset:6px}.ds-button:active{transform:translateY(2px)}@media(max-width:760px){.ds-button{font-size:13px;padding:17px 20px;gap:24px;min-height:60px}}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}.ds-button:active{transform:none}}"
+    },
+    {
+      "name": "Светлая ссылка CTA",
+      "kind": "button",
+      "refersTo": "button-light",
+      "description": "CTA на терракотовой финальной поверхности.",
+      "html": "<a class=\"ds-button ds-light\" href=\"https://t.me/GrigorievEvgene\">Записаться на встречу-знакомство <svg viewBox=\"0 0 24 24\" aria-hidden=\"true\"><path d=\"M5 19 19 5M5 5h14v14\"/></svg></a>",
+      "css": ".ds-button{display:inline-flex;justify-content:space-between;align-items:center;gap:32px;max-width:100%;background:var(--accent,#a4432b);color:var(--white,#fff);padding:21px 25px;font:650 14px/1.5 \"Manrope Variable\",sans-serif;text-decoration:none;min-height:64px;transition:background-color .2s,color .2s}.ds-button svg{width:24px;height:24px;fill:none;stroke:currentColor;stroke-width:1.5}.ds-button:hover{background:var(--ink,#252c2c);color:var(--white,#fff)}.ds-button:focus-visible{outline:3px solid currentColor;outline-offset:6px}.ds-button:active{transform:translateY(2px)}@media(max-width:760px){.ds-button{font-size:13px;padding:17px 20px;gap:24px;min-height:60px}}@media(prefers-reduced-motion:reduce){.ds-button{transition:none}.ds-button:active{transform:none}}.ds-light{background:var(--paper,#f5f1ea);color:var(--ink,#252c2c)}.ds-light:hover{background:var(--ink,#252c2c);color:var(--white,#fff)}"
+    },
+    {
+      "name": "Основная навигация",
+      "kind": "nav",
+      "description": "Текстовые якорные ссылки с терракотовым hover.",
+      "html": "<nav class=\"ds-nav\" aria-label=\"Основная навигация\"><a href=\"#directions\">Направления</a><a href=\"#experience\">Опыт</a><a href=\"#approach\">Подход</a></nav>",
+      "css": ".ds-nav{display:flex;gap:38px;font-family:\"Manrope Variable\",sans-serif;color:var(--ink,#252c2c)}.ds-nav a{display:inline-flex;align-items:center;min-height:44px;font-size:14px;color:inherit;text-decoration:none;transition:color .2s}.ds-nav a:hover{color:var(--accent,#a4432b)}.ds-nav a:focus-visible{outline:3px solid currentColor;outline-offset:6px}@media(prefers-reduced-motion:reduce){.ds-nav a{transition:none}}"
+    },
+    {
+      "name": "Направление — раскрытие",
+      "kind": "custom",
+      "description": "Нативное раскрытие с плюсом и accent-состоянием; без разделителя.",
+      "html": "<details class=\"ds-topic\" open><summary>Технологии и бизнес<span class=\"ds-plus\" aria-hidden=\"true\"></span></summary><div class=\"ds-topic-body\"><p>Создание и внедрение технологических продуктов. Оптимизация, масштабирование и развитие бизнеса.</p></div></details>",
+      "css": ".ds-topic{padding-block:27px;font-family:\"Manrope Variable\",sans-serif;color:var(--ink,#252c2c)}.ds-topic summary{display:flex;justify-content:space-between;align-items:center;gap:18px;cursor:pointer;font-size:27px;font-weight:500;letter-spacing:-.025em;list-style:none;min-height:44px}.ds-topic summary::-webkit-details-marker{display:none}.ds-topic summary:focus-visible{outline:3px solid currentColor;outline-offset:6px}.ds-topic[open] summary{color:var(--accent,#a4432b)}.ds-plus{width:20px;height:20px;position:relative;flex-shrink:0}.ds-plus:before,.ds-plus:after{content:\"\";position:absolute;background:currentColor;width:18px;height:1px;left:1px;top:9px}.ds-plus:after{transform:rotate(90deg)}.ds-topic[open] .ds-plus:after{transform:none}.ds-topic-body{padding:20px 45px 6px 0}.ds-topic-body p{font-size:16px;line-height:1.65;margin:0;max-width:60ch}@media(max-width:760px){.ds-topic summary{font-size:22px}.ds-topic-body{padding-right:0}.ds-topic-body p{font-size:15px}}"
+    },
+    {
+      "name": "Доказательство масштаба",
+      "kind": "custom",
+      "refersTo": "experience-surface",
+      "description": "Крупная табличная цифра и пояснение на сланцевой поверхности.",
+      "html": "<div class=\"ds-evidence\"><strong>500<span>+</span></strong><p>проектов проанализировано в «Первом Ярде».<br>10 пилотных проектов.</p></div>",
+      "css": ".ds-evidence{background:var(--dark,#263332);color:var(--paper,#f5f1ea);font-family:\"Manrope Variable\",sans-serif}.ds-evidence strong{font-weight:450;font-size:clamp(72px,7vw,110px);letter-spacing:-.04em;line-height:.9;font-variant-numeric:tabular-nums}.ds-evidence strong span{font-size:.55em;vertical-align:top;line-height:1.1}.ds-evidence p{font-size:16px;line-height:1.6;margin:20px 0 0;max-width:60ch}@media(max-width:760px){.ds-evidence strong{font-size:68px}.ds-evidence p{font-size:14px;margin-top:17px}}"
+    },
+    {
+      "name": "Контур портала",
+      "kind": "custom",
+      "description": "Архитектурная подпись финальной сцены; декоративный SVG.",
+      "html": "<div class=\"ds-portal\" aria-hidden=\"true\"><svg viewBox=\"0 0 400 400\"><path d=\"M50 350V200C50 50 350 50 350 200v150M125 350V200c0-75 150-75 150 0v150\"/></svg></div>",
+      "css": ".ds-portal{background:var(--accent,#a4432b)}.ds-portal svg{width:100%;height:auto;fill:none;stroke:#d7906f;stroke-width:26;overflow:visible}"
+    }
+  ],
+  "narrative": {
+    "northStar": "Архитектурная скульптура маршрута",
+    "overview": "Тёплый свет, терракотовый путь и авторский персонаж превращают переход от замысла к работающей системе в пространственное путешествие. Матовый гипс, дымчатое стекло и спокойные текстовые главы удерживают человеческий масштаб рядом с крупной архитектурой.\n\nФинальная реализация по брифу от 28.10.2026 выполнена в коде без отдельного утверждённого макета. Taste pinned-poster seed 2056948075 сохранён; Impeccable concept-seed вызван, явный бриф переопределяет случайные стилевые предложения.",
+    "keyCharacteristics": [
+      "Авторский персонаж и архитектурные сцены",
+      "Терракота, слоновая кость, сланец",
+      "Локальный кириллический Manrope",
+      "Открытые редакционные поверхности",
+      "Доступный HTML и естественная прокрутка"
+    ],
+    "rules": [
+      {
+        "name": "Доступное движение",
+        "body": "Движение только при no-preference через gsap.matchMedia и revert. На mobile нет pin; без JS контент доступен.",
+        "section": "elevation"
+      },
+      {
+        "name": "Выразительное имя",
+        "body": "Реальный display clamp достигает 102px, переопределяя раннюю запись 96px.",
+        "section": "typography"
+      }
+    ],
+    "dos": [
+      "Do сохранять пропорции исходного персонажа и сравнивать сцены с model sheet.",
+      "Do сохранять keyboard focus, нативные раскрытия и reduced motion.",
+      "Do проверять телефон, ноутбук, широкий экран и вложенный Pages base."
+    ],
+    "donts": [
+      "Don’t заменять персонажа стоковой фотографией или переносить материалы iCapital.",
+      "Don’t добавлять вымышленные факты, отзывы, цены или новые основные CTA.",
+      "Don’t превращать главы в повторяющуюся сетку карточек.",
+      "Don’t добавлять scroll hijacking, mobile pin или скрытый до JS контент."
+    ]
+  }
+}

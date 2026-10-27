@@ -1,0 +1,471 @@
+{
+  "url": "http://localhost:4321/alex_evgenygrigoriev/",
+  "checks": [
+    {
+      "width": 390,
+      "height": 844,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "ЕвгенийГригорьев",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "У каждого деласвой маршрут",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "От замыслак масштабу",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "От человекак системе",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "За проектами —живой человек",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "Начнёмс разговора",
+          "visible": true,
+          "opacity": "1"
+        }
+      ],
+      "images": [
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/journey-hero-v1.Bc7u2SjB_ZfarIB.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.CzzcQxla_1iJXf8.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/system-architecture-v1.BCUwlqlz_b4sHW.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.CzzcQxla_Z1tMjvr.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-standing-v1.DnQIJyLK_1kwPhO.webp",
+          "loaded": true
+        }
+      ],
+      "cta": [
+        "https://t.me/GrigorievEvgene",
+        "https://t.me/GrigorievEvgene"
+      ],
+      "anchors": true,
+      "fonts": true,
+      "canonical": "https://example.github.io/alex_evgenygrigoriev/",
+      "frames": [
+        {
+          "scroll": 1092,
+          "overflow": false
+        },
+        {
+          "scroll": 2081,
+          "overflow": false
+        },
+        {
+          "scroll": 2954,
+          "overflow": false
+        },
+        {
+          "scroll": 3871,
+          "overflow": false
+        },
+        {
+          "scroll": 4590,
+          "overflow": false
+        }
+      ],
+      "details": true,
+      "keyboard": "К содержанию"
+    },
+    {
+      "width": 1366,
+      "height": 768,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "ЕвгенийГригорьев",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "У каждого деласвой маршрут",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "От замыслак масштабу",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "От человекак системе",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "За проектами —живой человек",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "Начнёмс разговора",
+          "visible": true,
+          "opacity": "1"
+        }
+      ],
+      "images": [
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/journey-hero-v1.Bc7u2SjB_gHhJf.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.CzzcQxla_1OG8XI.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/system-architecture-v1.BCUwlqlz_psq1T.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.CzzcQxla_Z1tMjvr.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-standing-v1.DnQIJyLK_Z1LvWaH.webp",
+          "loaded": true
+        }
+      ],
+      "cta": [
+        "https://t.me/GrigorievEvgene",
+        "https://t.me/GrigorievEvgene"
+      ],
+      "anchors": true,
+      "fonts": true,
+      "canonical": "https://example.github.io/alex_evgenygrigoriev/",
+      "frames": [
+        {
+          "scroll": 868,
+          "overflow": false
+        },
+        {
+          "scroll": 1736,
+          "overflow": false
+        },
+        {
+          "scroll": 2759,
+          "overflow": false
+        },
+        {
+          "scroll": 3810,
+          "overflow": false
+        },
+        {
+          "scroll": 4644,
+          "overflow": false
+        }
+      ],
+      "details": true,
+      "keyboard": "К содержанию"
+    },
+    {
+      "width": 1440,
+      "height": 900,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "ЕвгенийГригорьев",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "У каждого деласвой маршрут",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "От замыслак масштабу",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "От человекак системе",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "За проектами —живой человек",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "Начнёмс разговора",
+          "visible": true,
+          "opacity": "1"
+        }
+      ],
+      "images": [
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/journey-hero-v1.Bc7u2SjB_gHhJf.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.CzzcQxla_1OG8XI.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/system-architecture-v1.BCUwlqlz_psq1T.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.CzzcQxla_23psEG.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-standing-v1.DnQIJyLK_Z1LvWaH.webp",
+          "loaded": true
+        }
+      ],
+      "cta": [
+        "https://t.me/GrigorievEvgene",
+        "https://t.me/GrigorievEvgene"
+      ],
+      "anchors": true,
+      "fonts": true,
+      "canonical": "https://example.github.io/alex_evgenygrigoriev/",
+      "frames": [
+        {
+          "scroll": 885,
+          "overflow": false
+        },
+        {
+          "scroll": 1761,
+          "overflow": false
+        },
+        {
+          "scroll": 2628,
+          "overflow": false
+        },
+        {
+          "scroll": 3898,
+          "overflow": false
+        },
+        {
+          "scroll": 4747,
+          "overflow": false
+        }
+      ],
+      "details": true,
+      "keyboard": "К содержанию"
+    },
+    {
+      "width": 1920,
+      "height": 1080,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "ЕвгенийГригорьев",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "У каждого деласвой маршрут",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "От замыслак масштабу",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "От человекак системе",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "За проектами —живой человек",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "Начнёмс разговора",
+          "visible": true,
+          "opacity": "1"
+        }
+      ],
+      "images": [
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/journey-hero-v1.Bc7u2SjB_gHhJf.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.CzzcQxla_Z1QWp6Q.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/system-architecture-v1.BCUwlqlz_Z1jhUJm.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.CzzcQxla_23psEG.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-standing-v1.DnQIJyLK_Z1HqjUb.webp",
+          "loaded": true
+        }
+      ],
+      "cta": [
+        "https://t.me/GrigorievEvgene",
+        "https://t.me/GrigorievEvgene"
+      ],
+      "anchors": true,
+      "fonts": true,
+      "canonical": "https://example.github.io/alex_evgenygrigoriev/",
+      "frames": [
+        {
+          "scroll": 981,
+          "overflow": false
+        },
+        {
+          "scroll": 1784,
+          "overflow": false
+        },
+        {
+          "scroll": 3080,
+          "overflow": false
+        },
+        {
+          "scroll": 4351,
+          "overflow": false
+        },
+        {
+          "scroll": 5294,
+          "overflow": false
+        }
+      ],
+      "details": true,
+      "keyboard": "К содержанию"
+    },
+    {
+      "width": 2560,
+      "height": 1440,
+      "overflow": false,
+      "headings": [
+        {
+          "text": "ЕвгенийГригорьев",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "У каждого деласвой маршрут",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "От замыслак масштабу",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "От человекак системе",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "За проектами —живой человек",
+          "visible": true,
+          "opacity": "1"
+        },
+        {
+          "text": "Начнёмс разговора",
+          "visible": true,
+          "opacity": "1"
+        }
+      ],
+      "images": [
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/journey-hero-v1.Bc7u2SjB_gHhJf.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.CzzcQxla_Z1QWp6Q.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/system-architecture-v1.BCUwlqlz_Z1jhUJm.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-thinking-v1.CzzcQxla_1rIPVu.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/alex_evgenygrigoriev/_astro/character-standing-v1.DnQIJyLK_Z1HqjUb.webp",
+          "loaded": true
+        }
+      ],
+      "cta": [
+        "https://t.me/GrigorievEvgene",
+        "https://t.me/GrigorievEvgene"
+      ],
+      "anchors": true,
+      "fonts": true,
+      "canonical": "https://example.github.io/alex_evgenygrigoriev/",
+      "frames": [
+        {
+          "scroll": 666,
+          "overflow": false
+        },
+        {
+          "scroll": 1813,
+          "overflow": false
+        },
+        {
+          "scroll": 2960,
+          "overflow": false
+        },
+        {
+          "scroll": 4699,
+          "overflow": false
+        },
+        {
+          "scroll": 5475,
+          "overflow": false
+        }
+      ],
+      "details": true,
+      "keyboard": "К содержанию"
+    }
+  ],
+  "errors": [],
+  "reducedMotion": {
+    "active": true,
+    "pins": 0,
+    "overflow": false
+  },
+  "resized": {
+    "overflow": false,
+    "pins": 0
+  },
+  "noJavaScript": {
+    "sections": 6,
+    "overflow": false,
+    "cta": true,
+    "details": true
+  }
+}

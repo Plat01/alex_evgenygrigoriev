@@ -1,39 +1,44 @@
 ---
 import { Image } from 'astro:assets';
 import BaseLayout from '../layouts/BaseLayout.astro';
-import character from '../assets/character-standing-v1.png';
-import modelSheet from '../../assets/Seven-view stylized character model sheet.png';
+import hero from '../assets/journey-hero-v1.png';
+import standing from '../assets/character-standing-v1.png';
+import thinker from '../assets/character-thinking-v1.png';
+import system from '../assets/system-architecture-v1.png';
+const telegram = 'https://t.me/GrigorievEvgene';
+const topics = [
+ {title:'Технологии и бизнес', text:'Создание и внедрение технологических продуктов. Оптимизация, масштабирование и развитие бизнеса.', detail:'От замысла продукта к архитектуре и внедрению. Опыт предпринимателя и основателя стратегического ИТ-агентства DT-Team.'},
+ {title:'Инвестиции и стартапы', text:'Взгляд на проект со стороны предпринимателя и бизнес-ангела. Анализ идей и работа с инновациями.', detail:'Опыт интегратора инноваций «Первый Ярд» и участия в технологических стартапах: Base Track, YallaMarket, XDAO, AL-Technologies.'},
+ {title:'Миссия и стратегия', text:'Разобраться с личной миссией и направлением. Соединить собственные ориентиры с развитием дела.', detail:'Личная стратегия начинается с человека: что для него важно, куда он хочет двигаться и какое место в этом занимает бизнес.'},
+];
 ---
-<BaseLayout title="Лендинг — рабочая основа" description="Рабочая основа будущего одностраничного сайта. Проверка графики, адаптивности и движения.">
-  <header class="frame header">
-    <a href={import.meta.env.BASE_URL} aria-label="Рабочая основа — начало">Рабочая основа</a>
-    <a href="#source">Персонаж <span aria-hidden="true">↓</span></a>
-  </header>
-  <main id="main">
-    <section class="frame intro" aria-labelledby="title">
-      <div class="intro-copy">
-        <h1 id="title">Место для<br />вашей истории.</h1>
-        <p>Среда разработки готова. Здесь появится одностраничный сайт с авторским персонажем и выразительными сценами.</p>
-        <a class="action" href="#source">Посмотреть исходник <span aria-hidden="true">↓</span></a>
-      </div>
-      <figure class="hero-media">
-        <Image src={character} alt="Стилизованный стройный персонаж с тёмной скульптурной причёской, в графитовой футболке и брюках" widths={[480, 768, 1024]} sizes="(max-width: 760px) 100vw, 50vw" loading="eager" fetchpriority="high" />
-      </figure>
-    </section>
-    <section id="source" class="source" aria-labelledby="source-title">
-      <div class="frame source-layout">
-        <div>
-          <h2 id="source-title">Один характер.<br />Разные ракурсы.</h2>
-          <p>Исходный лист задаёт внешность героя. Новые иллюстрации сохранят его пропорции, причёску и пластику.</p>
-          <p class="status">Это проверочный стенд. Содержание и сценарий лендинга будут определены после брифа.</p>
-        </div>
-        <Image class="source-image" src={modelSheet} alt="Оригинальный лист персонажа для сравнения внешности между сценами" widths={[640, 960, 1536]} sizes="(max-width: 760px) 100vw, 55vw" loading="lazy" />
-      </div>
-    </section>
-  </main>
-  <footer class="frame footer"><p>Готово к разработке</p><a href="#title">К началу ↑</a></footer>
+<BaseLayout title="Евгений Григорьев — технологический предприниматель, инвестор, методолог" description="Технологические продукты, развитие бизнеса и личная стратегия. Познакомьтесь с Евгением Григорьевым и обсудите свою задачу на встрече-знакомстве.">
+<header class="header frame">
+ <a class="wordmark" href={import.meta.env.BASE_URL} aria-label="Евгений Григорьев — начало">Евгений<br/>Григорьев<span class="brand-dot" aria-hidden="true"></span></a>
+ <nav aria-label="Основная навигация"><a href="#directions">Направления</a><a href="#experience">Опыт</a><a href="#approach">Подход</a></nav>
+ <details class="mobile-nav"><summary>Меню</summary><nav aria-label="Мобильная навигация"><a href="#directions">Направления</a><a href="#experience">Опыт</a><a href="#approach">Подход</a><a href="#meeting">Встреча</a></nav></details>
+ <a class="header-contact" href="#meeting">Познакомиться <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14"/></svg></a>
+</header>
+<main id="main">
+ <section class="hero" aria-labelledby="title">
+  <div class="hero-art"><Image src={hero} alt="Евгений на терракотовом пути среди архитектурных платформ, ведущих к большому круглому порталу" widths={[768,1280,1920,2560]} sizes="100vw" loading="eager" fetchpriority="high" /></div>
+  <div class="hero-copy frame"><h1 id="title">Евгений<br/>Григорьев</h1><p class="hero-role">Технологический предприниматель,<br class="desktop-break"/> инвестор, методолог</p><p class="hero-message">Создаю бизнес-проекты<br/>с человеческим подходом.</p><a class="button" href={telegram}>Записаться на<br class="mobile-break"/> встречу-знакомство <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14"/></svg></a></div>
+  <div class="hero-bottom frame"><span>От направления к работающей системе</span><a href="#directions" aria-label="Перейти к направлениям"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v18m-7-7 7 7 7-7"/></svg></a></div>
+ </section>
+ <section id="directions" class="directions section frame" aria-labelledby="directions-title">
+  <div class="section-intro"><h2 id="directions-title">У каждого дела<br/>свой маршрут</h2><p>Работаю с задачами на пересечении технологий, бизнеса и личных ориентиров его основателя.</p></div>
+  <div class="directions-layout"><div class="topic-list">{topics.map((topic,i)=><details class="topic" open={i===0}><summary>{topic.title}<span class="plus" aria-hidden="true"></span></summary><div class="topic-body"><p>{topic.text}</p><p>{topic.detail}</p></div></details>)}</div><figure class="direction-figure"><Image src={thinker} alt="Евгений задумчиво выбирает направление" widths={[320,560,800]} sizes="(max-width: 760px) 45vw, 30vw" loading="lazy"/><svg class="direction-orbit" viewBox="0 0 500 500" aria-hidden="true"><ellipse cx="250" cy="310" rx="230" ry="90"/><path d="M20 310h450m-25-20 25 20-25 20"/></svg></figure></div>
+ </section>
+ <section id="experience" class="experience section" aria-labelledby="experience-title"><div class="frame">
+  <div class="experience-head"><h2 id="experience-title">От замысла<br/>к масштабу</h2><p>Опыт, в котором стратегия встречается с реализацией.</p></div>
+  <div class="evidence"><div class="evidence-lead"><a href="https://dt-team.ru/" target="_blank" rel="noopener noreferrer" class="company-link">DT-Team <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14"/></svg></a><p>Основатель и управляющий партнёр стратегического ИТ-агентства.</p></div><div class="evidence-number"><strong>5</strong><p>программ проектов для Росстата общей стоимостью более <span class="nowrap">2 млрд ₽</span></p></div><div class="evidence-number"><strong>500<span>+</span></strong><p>проектов проанализировано в «Первом Ярде».<br/>10 пилотных проектов.</p></div></div>
+  <p class="architecture-note">Разработал концепцию и архитектуру Цифровой аналитической платформы государственной статистики.</p>
+  <p class="source-note">Сведения об опыте — по материалам <a href="https://evgenygrigoriev.ru/" target="_blank" rel="noopener noreferrer">сайта Евгения</a>.</p>
+ </div></section>
+ <section id="approach" class="approach" aria-labelledby="approach-title"><div class="approach-stage"><div class="frame approach-copy"><h2 id="approach-title">От человека<br/>к системе</h2><p>Сначала понять, что важно человеку и его делу. Затем связать цель, технологию и решения в работающую систему.</p></div><div class="system-scene" aria-hidden="true"><div class="scene-ground"></div><Image class="system-layer" src={system} alt="" widths={[700,1100,1600]} sizes="(max-width: 760px) 100vw, 68vw" loading="lazy"/><Image class="thinker-layer" src={thinker} alt="" widths={[280,500,700]} sizes="(max-width: 760px) 28vw, 20vw" loading="lazy"/><div class="foreground-block"></div></div><div class="frame approach-bottom"><p>Человеческий подход задаёт направление.<br/>Системное мышление помогает его удержать.</p></div></div></section>
+ <section class="person section frame" aria-labelledby="person-title"><figure class="person-art"><Image src={standing} alt="Евгений с открытым жестом приглашает к разговору" widths={[400,700,1000]} sizes="(max-width: 760px) 70vw, 40vw" loading="lazy"/></figure><div class="person-copy"><h2 id="person-title">За проектами —<br/>живой человек</h2><p>Модерирую в Бизнес-школе Сколково, выступаю и делюсь опытом. Преподавал собственные курсы в МАИ, МГУ и РАНХиГС.</p><p>За пределами рабочих задач — бег, походы и саморазвитие. Движение помогает сменить перспективу и увидеть следующий шаг.</p></div></section>
+ <section id="meeting" class="meeting section" aria-labelledby="meeting-title"><div class="frame meeting-layout"><div><h2 id="meeting-title">Начнём<br/>с разговора</h2><p>Расскажите, над чем работаете<br/>и куда хотите двигаться.</p><a class="button button-light" href={telegram}>Записаться на<br class="mobile-break"/> встречу-знакомство <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 19 19 5M5 5h14v14"/></svg></a><a class="telegram" href={telegram}>@GrigorievEvgene</a></div><div class="meeting-mark" aria-hidden="true"><svg viewBox="0 0 400 400"><path d="M50 350V200C50 50 350 50 350 200v150M125 350V200c0-75 150-75 150 0v150"/></svg></div></div></section>
+</main>
+<footer class="footer frame"><p>ИП Григорьев Евгений Вячеславович<br/>ИНН 505401375948 · ОГРНИП 321508100220342</p><a href="https://evgenygrigoriev.ru/policy" target="_blank" rel="noopener noreferrer">Политика конфиденциальности</a><a href="#title">К началу</a></footer>
 </BaseLayout>
-<script>
-  import { initMotion } from '../scripts/motion';
-  initMotion();
-</script>
+<script>import { initMotion } from '../scripts/motion'; initMotion();</script>

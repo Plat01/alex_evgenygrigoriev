@@ -3,19 +3,22 @@ import '@fontsource-variable/manrope';
 import '../styles/global.css';
 interface Props { title: string; description: string; }
 const { title, description } = Astro.props;
+const canonical = Astro.site ? new URL(import.meta.env.BASE_URL, Astro.site).href : undefined;
 ---
 <!doctype html>
 <html lang="ru">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta name="description" content={description} />
-    <meta name="robots" content="noindex, nofollow" />
-    <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
-    <title>{title}</title>
-  </head>
-  <body>
-    <a class="skip-link" href="#main">К содержанию</a>
-    <slot />
-  </body>
+ <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta name="description" content={description} />
+  <meta name="theme-color" content="#f5f1ea" />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="ru_RU" />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  {canonical && <link rel="canonical" href={canonical} />}
+  <link rel="icon" type="image/svg+xml" href={`${import.meta.env.BASE_URL}favicon.svg`} />
+  <title>{title}</title>
+ </head>
+ <body><a class="skip-link" href="#main">К содержанию</a><slot /></body>
 </html>

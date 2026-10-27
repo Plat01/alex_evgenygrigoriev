@@ -1,0 +1,2196 @@
+{
+ "url": "http://localhost:4321/alex_evgenygrigoriev/",
+ "at": "2026-10-27T22:57:07.470Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.88,
+    0.35,
+    1,
+    1,
+    0.64,
+    0.74,
+    0.86
+   ],
+   "motion": {
+    "elements": 12,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 12,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5727,
+     "screens": 6.4,
+     "words": 228,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 7,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "journey-hero-v1.Bc7u2SjB_gHhJf.webp",
+      "character-thinking-v1.CzzcQxla_1OG8XI.webp",
+      "system-architecture-v1.BCUwlqlz_psq1T.webp",
+      "character-thinking-v1.CzzcQxla_23psEG.webp",
+      "character-standing-v1.DnQIJyLK_Z1LvWaH.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Евгений Григорьев",
+     "words": 2,
+     "chars": 17,
+     "lines": 2,
+     "size": 102,
+     "vw": 7.1,
+     "font": "Manrope Variable",
+     "weight": 500,
+     "tracking": -0.04,
+     "leading": 1.03,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 188,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Евгений Григорьев",
+     "words": 2,
+     "lines": 2,
+     "size": 102,
+     "font": "Manrope Variable"
+    },
+    "headings": [
+     {
+      "text": "Евгений Григорьев",
+      "words": 2,
+      "chars": 17,
+      "lines": 2,
+      "size": 102,
+      "vw": 7.1,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 188,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "У каждого дела свой маршрут",
+      "words": 5,
+      "chars": 27,
+      "lines": 2,
+      "size": 66.2,
+      "vw": 4.6,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.42,
+      "top": 1028,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "От замысла к масштабу",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 66.2,
+      "vw": 4.6,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.24,
+      "top": 1922,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "5",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Manrope Variable",
+      "weight": 450,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.04,
+      "top": 2130,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "500+",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 100.8,
+      "vw": 7,
+      "font": "Manrope Variable",
+      "weight": 450,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.14,
+      "top": 2130,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "DT-Team",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 50.4,
+      "vw": 3.5,
+      "font": "Manrope Variable",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.16,
+      "top": 2154,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "От человека к системе",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 66.2,
+      "vw": 4.6,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2747,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "За проектами — живой человек",
+      "words": 5,
+      "chars": 28,
+      "lines": 2,
+      "size": 66.2,
+      "vw": 4.6,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.41,
+      "top": 4176,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Начнём с разговора",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 95,
+      "vw": 6.6,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 4992,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      27,
+      50,
+      55,
+      66,
+      95,
+      101,
+      102
+     ],
+     "sizeCount": 14,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope Variable",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.6
+     },
+     "measureChars": 73,
+     "max": {
+      "size": 102,
+      "vw": 7.1,
+      "font": "Manrope Variable",
+      "text": "ЕвгенийГригорьев"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f5f1ea",
+     "bodyBgHsl": {
+      "h": 38,
+      "s": 0.35,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f8eee2",
+       "top": 0,
+       "hsl": {
+        "h": 33,
+        "s": 0.61,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#263332",
+       "top": 1794,
+       "hsl": {
+        "h": 175,
+        "s": 0.15,
+        "l": 0.17
+       }
+      },
+      {
+       "color": "#e8e6df",
+       "top": 2652,
+       "hsl": {
+        "h": 47,
+        "s": 0.16,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#a4432b",
+       "top": 4813,
+       "hsl": {
+        "h": 12,
+        "s": 0.58,
+        "l": 0.41
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#252c2c",
+       "share": 0.74
+      },
+      {
+       "color": "#f5f1ea",
+       "share": 0.24
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.01
+      },
+      {
+       "color": "#a4432b",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#252c2c",
+      "hsl": {
+       "h": 180,
+       "s": 0.09,
+       "l": 0.16
+      },
+      "fg": "#f5f1ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 0,
+     "height": 66,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "К содержанию",
+      "Записаться на встречу-знакомство"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 100,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5727,
+    "margins": {
+     "left": 72,
+     "right": 71
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 900,
+      "words": 19,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Евгений",
+       "size": 102,
+       "tag": "h1"
+      },
+      "left": 72,
+      "right": 894,
+      "textLeft": 72,
+      "textRight": 894,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#directions.directions.section",
+      "tag": "section",
+      "top": 900,
+      "height": 894,
+      "words": 132,
+      "media": 2,
+      "middle": 159,
+      "heading": {
+       "text": "У каждого дела",
+       "size": 66,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 71,
+      "textLeft": 72,
+      "textRight": 262,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.experience.section",
+      "tag": "section",
+      "top": 1794,
+      "height": 858,
+      "words": 62,
+      "media": 0,
+      "middle": 109,
+      "heading": {
+       "text": "500",
+       "size": 101,
+       "tag": "strong"
+      },
+      "left": 72,
+      "right": 103,
+      "textLeft": 72,
+      "textRight": 103,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#approach.approach",
+      "tag": "section",
+      "top": 2652,
+      "height": 1255,
+      "words": 32,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "От человека",
+       "size": 66,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 0,
+      "textLeft": 72,
+      "textRight": 1001,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.person.section",
+      "tag": "section",
+      "top": 3907,
+      "height": 906,
+      "words": 43,
+      "media": 1,
+      "middle": 156,
+      "heading": {
+       "text": "За проектами —",
+       "size": 66,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 204,
+      "textLeft": 771,
+      "textRight": 204,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#meeting.meeting.section",
+      "tag": "section",
+      "top": 4813,
+      "height": 791,
+      "words": 15,
+      "media": 1,
+      "middle": 220,
+      "heading": {
+       "text": "Начнём",
+       "size": 95,
+       "tag": "h2"
+      },
+      "left": 72,
+      "right": 35,
+      "textLeft": 72,
+      "textRight": 858,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer.frame",
+      "tag": "footer",
+      "top": 5604,
+      "height": 123,
+      "words": 13,
+      "media": 0,
+      "middle": 379,
+      "heading": null,
+      "left": 72,
+      "right": 72,
+      "textLeft": 72,
+      "textRight": 72,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 4688,
+      "height": 276
+     }
+    ],
+    "h1s": [
+     {
+      "text": "Евгений Григорьев",
+      "size": 102,
+      "top": 189,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 72,
+      "n": 18
+     },
+     {
+      "x": 771,
+      "n": 4
+     },
+     {
+      "x": 718,
+      "n": 1
+     },
+     {
+      "x": 813,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 24,
+    "bodySize": 16,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 7,
+   "filled": [
+    0.95,
+    0.61,
+    0.76,
+    1,
+    0.86,
+    0.82,
+    0.76
+   ],
+   "motion": {
+    "elements": 11,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 11,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 5436,
+     "screens": 6.4,
+     "words": 226,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 7,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "journey-hero-v1.Bc7u2SjB_ZfarIB.webp",
+      "character-thinking-v1.CzzcQxla_1iJXf8.webp",
+      "system-architecture-v1.BCUwlqlz_b4sHW.webp",
+      "character-thinking-v1.CzzcQxla_Z1tMjvr.webp",
+      "character-standing-v1.DnQIJyLK_1kwPhO.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Евгений Григорьев",
+     "words": 2,
+     "chars": 17,
+     "lines": 2,
+     "size": 52.7,
+     "vw": 13.5,
+     "font": "Manrope Variable",
+     "weight": 500,
+     "tracking": -0.04,
+     "leading": 1.03,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.89,
+     "top": 133,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Евгений Григорьев",
+     "words": 2,
+     "lines": 2,
+     "size": 52.7,
+     "font": "Manrope Variable"
+    },
+    "headings": [
+     {
+      "text": "Евгений Григорьев",
+      "words": 2,
+      "chars": 17,
+      "lines": 2,
+      "size": 52.7,
+      "vw": 13.5,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 133,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "У каждого дела свой маршрут",
+      "words": 5,
+      "chars": 27,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 1040,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Технологии и бизнес",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 1521,
+      "tag": "summary",
+      "kind": "heading"
+     },
+     {
+      "text": "Инвестиции и стартапы",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 1839,
+      "tag": "summary",
+      "kind": "heading"
+     },
+     {
+      "text": "Миссия и стратегия",
+      "words": 3,
+      "chars": 18,
+      "lines": 1,
+      "size": 22,
+      "vw": 5.6,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.025,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 1942,
+      "tag": "summary",
+      "kind": "heading"
+     },
+     {
+      "text": "От замысла к масштабу",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 2173,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "DT-Team",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 29,
+      "vw": 7.4,
+      "font": "Manrope Variable",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 2394,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "5",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 68,
+      "vw": 17.4,
+      "font": "Manrope Variable",
+      "weight": 450,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.1,
+      "top": 2494,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "500+",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 68,
+      "vw": 17.4,
+      "font": "Manrope Variable",
+      "weight": 450,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.35,
+      "top": 2494,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "От человека к системе",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 3014,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "За проектами — живой человек",
+      "words": 5,
+      "chars": 28,
+      "lines": 2,
+      "size": 39,
+      "vw": 10,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 3918,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Начнём с разговора",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 60,
+      "vw": 15.4,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.89,
+      "top": 4851,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 12,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      22,
+      29,
+      37,
+      39,
+      53,
+      60,
+      68
+     ],
+     "sizeCount": 13,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope Variable",
+      "size": 15,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.6
+     },
+     "measureChars": 46,
+     "max": {
+      "size": 68,
+      "vw": 17.4,
+      "font": "Manrope Variable",
+      "text": "5"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f5f1ea",
+     "bodyBgHsl": {
+      "h": 38,
+      "s": 0.35,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f8eee2",
+       "top": 0,
+       "hsl": {
+        "h": 33,
+        "s": 0.61,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#263332",
+       "top": 2093,
+       "hsl": {
+        "h": 175,
+        "s": 0.15,
+        "l": 0.17
+       }
+      },
+      {
+       "color": "#e8e6df",
+       "top": 2938,
+       "hsl": {
+        "h": 47,
+        "s": 0.16,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#e7e3dc",
+       "top": 4241,
+       "hsl": {
+        "h": 38,
+        "s": 0.19,
+        "l": 0.88
+       }
+      },
+      {
+       "color": "#a4432b",
+       "top": 4771,
+       "hsl": {
+        "h": 12,
+        "s": 0.58,
+        "l": 0.41
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#252c2c",
+       "share": 0.74
+      },
+      {
+       "color": "#f5f1ea",
+       "share": 0.24
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.01
+      },
+      {
+       "color": "#a4432b",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#252c2c",
+      "hsl": {
+       "h": 180,
+       "s": 0.09,
+       "l": 0.16
+      },
+      "fg": "#f5f1ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 0,
+     "height": 60,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "К содержанию",
+      "Записаться на встречу-знакомство"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 3,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.54
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 84,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 5436,
+    "margins": {
+     "left": 22,
+     "right": 22
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 960,
+      "words": 19,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Евгений",
+       "size": 53,
+       "tag": "h1"
+      },
+      "left": 22,
+      "right": 106,
+      "textLeft": 22,
+      "textRight": 106,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#directions.directions.section",
+      "tag": "section",
+      "top": 960,
+      "height": 1133,
+      "words": 112,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "У каждого дела",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 23,
+      "textLeft": 22,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.experience.section",
+      "tag": "section",
+      "top": 2093,
+      "height": 845,
+      "words": 62,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "500",
+       "size": 68,
+       "tag": "strong"
+      },
+      "left": 22,
+      "right": 33,
+      "textLeft": 22,
+      "textRight": 33,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#approach.approach",
+      "tag": "section",
+      "top": 2938,
+      "height": 900,
+      "words": 32,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "От человека",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 46,
+      "textLeft": 22,
+      "textRight": 46,
+      "fullBleed": true,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.person.section",
+      "tag": "section",
+      "top": 3838,
+      "height": 934,
+      "words": 43,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "За проектами —",
+       "size": 39,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 26,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#meeting.meeting.section",
+      "tag": "section",
+      "top": 4771,
+      "height": 506,
+      "words": 15,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Начнём",
+       "size": 60,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 0,
+      "textLeft": 22,
+      "textRight": 46,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer.frame",
+      "tag": "footer",
+      "top": 5277,
+      "height": 159,
+      "words": 13,
+      "media": 0,
+      "middle": 4,
+      "heading": null,
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Евгений Григорьев",
+      "size": 53,
+      "top": 133,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 22,
+      "n": 23
+     },
+     {
+      "x": 199,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 24,
+    "bodySize": 15,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 2560,
+   "height": 1600,
+   "load": "load",
+   "screens": 5,
+   "filled": [
+    0.74,
+    0.77,
+    1,
+    0.5,
+    0.68
+   ],
+   "motion": {
+    "elements": 12,
+    "css": 0,
+    "transitions": 0,
+    "scripted": 12,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 2560,
+     "h": 1600
+    },
+    "page": {
+     "height": 7254,
+     "screens": 4.5,
+     "words": 228,
+     "img": 5,
+     "video": 0,
+     "canvas": 0,
+     "svg": 7,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 5,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [
+      "journey-hero-v1.Bc7u2SjB_gHhJf.webp",
+      "character-thinking-v1.CzzcQxla_Z1QWp6Q.webp",
+      "system-architecture-v1.BCUwlqlz_Z1jhUJm.webp",
+      "character-thinking-v1.CzzcQxla_1rIPVu.webp",
+      "character-standing-v1.DnQIJyLK_Z1HqjUb.webp"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Евгений Григорьев",
+     "words": 2,
+     "chars": 17,
+     "lines": 2,
+     "size": 102,
+     "vw": 4,
+     "font": "Manrope Variable",
+     "weight": 500,
+     "tracking": -0.04,
+     "leading": 1.03,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.69,
+     "top": 190,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "Евгений Григорьев",
+     "words": 2,
+     "lines": 2,
+     "size": 102,
+     "font": "Manrope Variable"
+    },
+    "headings": [
+     {
+      "text": "Евгений Григорьев",
+      "words": 2,
+      "chars": 17,
+      "lines": 2,
+      "size": 102,
+      "vw": 4,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.69,
+      "top": 190,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "У каждого дела свой маршрут",
+      "words": 5,
+      "chars": 27,
+      "lines": 2,
+      "size": 72,
+      "vw": 2.8,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.32,
+      "top": 1328,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "От замысла к масштабу",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 72,
+      "vw": 2.8,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.15,
+      "top": 2234,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "5",
+      "words": 1,
+      "chars": 1,
+      "lines": 1,
+      "size": 110,
+      "vw": 4.3,
+      "font": "Manrope Variable",
+      "weight": 450,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.02,
+      "top": 2452,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "500+",
+      "words": 1,
+      "chars": 4,
+      "lines": 1,
+      "size": 110,
+      "vw": 4.3,
+      "font": "Manrope Variable",
+      "weight": 450,
+      "tracking": -0.04,
+      "leading": 0.9,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.09,
+      "top": 2452,
+      "tag": "strong",
+      "kind": "heading"
+     },
+     {
+      "text": "DT-Team",
+      "words": 1,
+      "chars": 7,
+      "lines": 1,
+      "size": 54,
+      "vw": 2.1,
+      "font": "Manrope Variable",
+      "weight": 400,
+      "tracking": -0.04,
+      "leading": 1.2,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.09,
+      "top": 2478,
+      "tag": "a",
+      "kind": "heading"
+     },
+     {
+      "text": "От человека к системе",
+      "words": 4,
+      "chars": 21,
+      "lines": 2,
+      "size": 72,
+      "vw": 2.8,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.69,
+      "top": 3079,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "За проектами — живой человек",
+      "words": 5,
+      "chars": 28,
+      "lines": 2,
+      "size": 72,
+      "vw": 2.8,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.32,
+      "top": 5457,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Начнём с разговора",
+      "words": 3,
+      "chars": 18,
+      "lines": 2,
+      "size": 96,
+      "vw": 3.8,
+      "font": "Manrope Variable",
+      "weight": 500,
+      "tracking": -0.04,
+      "leading": 1.03,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 6423,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 0,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Manrope Variable",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      20,
+      22,
+      27,
+      54,
+      61,
+      72,
+      96,
+      102,
+      110
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "Manrope Variable",
+      "size": 16,
+      "leading": 1.65,
+      "weight": 400,
+      "tracking": 0,
+      "contrast": 12.6
+     },
+     "measureChars": 73,
+     "max": {
+      "size": 110,
+      "vw": 4.3,
+      "font": "Manrope Variable",
+      "text": "5"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#f5f1ea",
+     "bodyBgHsl": {
+      "h": 38,
+      "s": 0.35,
+      "l": 0.94
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f8eee2",
+       "top": 0,
+       "hsl": {
+        "h": 33,
+        "s": 0.61,
+        "l": 0.93
+       }
+      },
+      {
+       "color": "#263332",
+       "top": 2106,
+       "hsl": {
+        "h": 175,
+        "s": 0.15,
+        "l": 0.17
+       }
+      },
+      {
+       "color": "#e8e6df",
+       "top": 2984,
+       "hsl": {
+        "h": 47,
+        "s": 0.16,
+        "l": 0.89
+       }
+      },
+      {
+       "color": "#a4432b",
+       "top": 6150,
+       "hsl": {
+        "h": 12,
+        "s": 0.58,
+        "l": 0.41
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#252c2c",
+       "share": 0.74
+      },
+      {
+       "color": "#f5f1ea",
+       "share": 0.24
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.01
+      },
+      {
+       "color": "#a4432b",
+       "share": 0.01
+      }
+     ],
+     "button": {
+      "bg": "#252c2c",
+      "hsl": {
+       "h": 180,
+       "s": 0.09,
+       "l": 0.16
+      },
+      "fg": "#f5f1ea"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 3,
+     "inHero": 2,
+     "radius": 0,
+     "height": 66,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "К содержанию",
+      "Записаться на встречу-знакомство"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 0,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 0,
+     "boxRadius": 0,
+     "squareMedia": 5,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "img",
+      "ratio": 0.75
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": false,
+     "height": 100,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "manrope variable"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 2560,
+     "h": 1600
+    },
+    "pageH": 7254,
+    "margins": {
+     "left": 400,
+     "right": 392
+    },
+    "sections": [
+     {
+      "sel": "section.hero",
+      "tag": "section",
+      "top": 0,
+      "height": 1200,
+      "words": 19,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Евгений",
+       "size": 102,
+       "tag": "h1"
+      },
+      "left": 400,
+      "right": 1686,
+      "textLeft": 400,
+      "textRight": 1686,
+      "fullBleed": true,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#directions.directions.section",
+      "tag": "section",
+      "top": 1200,
+      "height": 906,
+      "words": 132,
+      "media": 2,
+      "middle": 424,
+      "heading": {
+       "text": "У каждого дела",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 400,
+      "right": 392,
+      "textLeft": 400,
+      "textRight": 788,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#experience.experience.section",
+      "tag": "section",
+      "top": 2106,
+      "height": 878,
+      "words": 62,
+      "media": 0,
+      "middle": 203,
+      "heading": {
+       "text": "500",
+       "size": 110,
+       "tag": "strong"
+      },
+      "left": 400,
+      "right": 437,
+      "textLeft": 400,
+      "textRight": 437,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#approach.approach",
+      "tag": "section",
+      "top": 2984,
+      "height": 2160,
+      "words": 32,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "От человека",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 400,
+      "right": 0,
+      "textLeft": 400,
+      "textRight": 1761,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section.person.section",
+      "tag": "section",
+      "top": 5144,
+      "height": 1006,
+      "words": 43,
+      "media": 1,
+      "middle": 211,
+      "heading": {
+       "text": "За проектами —",
+       "size": 72,
+       "tag": "h2"
+      },
+      "left": 400,
+      "right": 706,
+      "textLeft": 1349,
+      "textRight": 706,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#meeting.meeting.section",
+      "tag": "section",
+      "top": 6150,
+      "height": 981,
+      "words": 15,
+      "media": 1,
+      "middle": 475,
+      "heading": {
+       "text": "Начнём",
+       "size": 96,
+       "tag": "h2"
+      },
+      "left": 400,
+      "right": 349,
+      "textLeft": 400,
+      "textRight": 1645,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.footer.frame",
+      "tag": "footer",
+      "top": 7131,
+      "height": 123,
+      "words": 13,
+      "media": 0,
+      "middle": 611,
+      "heading": null,
+      "left": 400,
+      "right": 400,
+      "textLeft": 400,
+      "textRight": 400,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [
+     {
+      "text": "Евгений Григорьев",
+      "size": 102,
+      "top": 190,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 400,
+      "n": 18
+     },
+     {
+      "x": 1349,
+      "n": 4
+     },
+     {
+      "x": 1406,
+      "n": 1
+     },
+     {
+      "x": 1510,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 24,
+    "bodySize": 16,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.04,
+    "voidBox": {
+     "x": 960,
+     "y": 1280,
+     "w": 1600,
+     "h": 107
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "palette-cream",
+   "width": 1440,
+   "message": "Yellow-cream background (page background #f5f1ea, section #f8eee2, section #e8e6df).",
+   "fix": "Use the drawn palette. If you want warmth, take a low-chroma stone or bone, not a yellow cream.",
+   "alsoAt": [
+    390,
+    2560
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "14 different font sizes (13, 14, 15, 16, 17, 18, 20, 27, 50, 55, 66, 95, 101, 102).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    390,
+    2560
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject.",
+   "alsoAt": [
+    2560
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "font-not-dealt",
+   "width": 1440,
+   "message": "The sheet dealt Barlow Condensed and Barlow, but the page renders Manrope Variable.",
+   "fix": "Load the dealt face (the link on the sheet) and put it first in font-family. A build that falls back to a default face lands on the default look.",
+   "alsoAt": [
+    2560
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "name-only-title",
+   "width": 1440,
+   "message": "The h1 is a bare name (\"Евгений Григорьев\") and nothing else on the first screen says what this is.",
+   "fix": "Keep the name if it leads, and give the line under it (18px or more) the plain words: what it is, for whom, where or when. In the study of 97 Sites of the Day, first screens that named nothing lost usability and content points.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "still-page",
+   "width": 1440,
+   "message": "Little motion: 12 element(s) moved while the page loaded and scrolled.",
+   "fix": "Give every section an entrance for its parts (not one fade of the whole block) and add one moving picture: a looping clip or a slow move on a photograph.",
+   "alsoAt": [
+    2560
+   ]
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/dima/programming/alex_evgenygrigoriev/.taste-skill/landing-inspect/desktop-1440-fold.jpg",
+   "pages": [
+    "/home/dima/programming/alex_evgenygrigoriev/.taste-skill/landing-inspect/desktop-1440-page-01.jpg",
+    "/home/dima/programming/alex_evgenygrigoriev/.taste-skill/landing-inspect/desktop-1440-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/dima/programming/alex_evgenygrigoriev/.taste-skill/landing-inspect/mobile-fold.jpg",
+   "pages": [
+    "/home/dima/programming/alex_evgenygrigoriev/.taste-skill/landing-inspect/mobile-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "desktop",
+   "width": 2560,
+   "fold": "/home/dima/programming/alex_evgenygrigoriev/.taste-skill/landing-inspect/desktop-2560-fold.jpg",
+   "pages": [
+    "/home/dima/programming/alex_evgenygrigoriev/.taste-skill/landing-inspect/desktop-2560-page-01.jpg",
+    "/home/dima/programming/alex_evgenygrigoriev/.taste-skill/landing-inspect/desktop-2560-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
