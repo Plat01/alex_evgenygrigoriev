@@ -1,0 +1,5 @@
+# Project-scoped MCP. Existing browser MCP is supplied by the host; do not duplicate it.
+[mcp_servers.context7]
+url = "https://mcp.context7.com/mcp"
+startup_timeout_sec = 30
+tool_timeout_sec = 60

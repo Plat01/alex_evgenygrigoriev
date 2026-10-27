@@ -1,0 +1,14 @@
+{
+  "pbakaus/impeccable": {
+    "headObservedAtSetup": "d34c87e1a00989ae8dbdd7f6b30b70f23319e860",
+    "source": "https://github.com/pbakaus/impeccable"
+  },
+  "greensock/gsap-skills": {
+    "headObservedAtSetup": "aed9cfd3277740755f6bfc1155c7aa645403b760",
+    "source": "https://github.com/greensock/gsap-skills"
+  },
+  "Leonxlnx/taste-skill": {
+    "headObservedAtSetup": "12af471f627f866411b4bd785b19646d3672784c",
+    "source": "https://github.com/Leonxlnx/taste-skill"
+  }
+}

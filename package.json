@@ -1,0 +1,27 @@
+{
+  "name": "alex-landing",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=22.23.4"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "check": "astro check",
+    "build": "astro build",
+    "preview": "astro preview",
+    "docs:check": "node scripts/context7-check.mjs",
+    "design:check": ".agents/skills/impeccable/scripts/impeccable detect src"
+  },
+  "dependencies": {
+    "@fontsource-variable/manrope": "^5.3.0",
+    "astro": "^7.4.2",
+    "gsap": "^3.15.0"
+  },
+  "devDependencies": {
+    "@astrojs/check": "^0.9.12",
+    "node": "^22.23.4",
+    "typescript": "^6.0.3"
+  }
+}

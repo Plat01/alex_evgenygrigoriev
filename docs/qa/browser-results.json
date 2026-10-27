@@ -1,0 +1,86 @@
+{
+  "results": [
+    {
+      "label": "phone",
+      "width": 390,
+      "height": 844,
+      "before": "none",
+      "after": "matrix(1.0177, 0, 0, 1.0177, 0, 18.9609)",
+      "errors": [],
+      "failed": [],
+      "scrollWidth": 390,
+      "innerWidth": 390,
+      "images": [
+        {
+          "src": "http://localhost:4321/landing-check/_astro/character-standing-v1.DnQIJyLK_20Og1m.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/landing-check/_astro/Seven-view%20stylized%20character%20model%20sheet.DLhfDoIN_ZOkj7J.webp",
+          "loaded": true
+        }
+      ],
+      "fontLoaded": true
+    },
+    {
+      "label": "laptop",
+      "width": 1366,
+      "height": 768,
+      "before": "none",
+      "after": "matrix(1.0209, 0, 0, 1.0209, 0, 21.8263)",
+      "errors": [],
+      "failed": [],
+      "scrollWidth": 1366,
+      "innerWidth": 1366,
+      "images": [
+        {
+          "src": "http://localhost:4321/landing-check/_astro/character-standing-v1.DnQIJyLK_Z1h53Rh.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/landing-check/_astro/Seven-view%20stylized%20character%20model%20sheet.DLhfDoIN_dMpur.webp",
+          "loaded": true
+        }
+      ],
+      "fontLoaded": true
+    },
+    {
+      "label": "wide",
+      "width": 1920,
+      "height": 1080,
+      "before": "none",
+      "after": "matrix(1.0244, 0, 0, 1.0244, 0, 35.7729)",
+      "errors": [],
+      "failed": [],
+      "scrollWidth": 1920,
+      "innerWidth": 1920,
+      "images": [
+        {
+          "src": "http://localhost:4321/landing-check/_astro/character-standing-v1.DnQIJyLK_Z23oAyD.webp",
+          "loaded": true
+        },
+        {
+          "src": "http://localhost:4321/landing-check/_astro/Seven-view%20stylized%20character%20model%20sheet.DLhfDoIN_22oieY.webp",
+          "loaded": true
+        }
+      ],
+      "fontLoaded": true
+    }
+  ],
+  "errors": [],
+  "failed": [],
+  "reduced": {
+    "reducedBefore": "none",
+    "reducedAfter": "none"
+  },
+  "keyboard": {
+    "focused": "К содержанию",
+    "outline": "solid"
+  },
+  "skipLink": "#main",
+  "anchor": "#source",
+  "noJsCheck": true,
+  "checkedAt": "2026-10-28",
+  "base": "/landing-check/",
+  "engine": "Chromium via existing Playwright MCP"
+}
